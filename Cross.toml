@@ -1,0 +1,6 @@
+[build.env]
+passthrough = [
+    "RUST_BACKTRACE",
+    "OPENSSL_LIB_DIR",
+    "OPENSSL_INCLUDE_DIR",
+]
