@@ -35,6 +35,7 @@ dependencies = [
  "headless_chrome",
  "image",
  "openssl",
+ "rand 0.7.3",
 ]
 
 [[package]]
